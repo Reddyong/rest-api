@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 @AllArgsConstructor
 public class BookQueryParam {
     private String category;
-
     private String issuedYear;
     private String issuedMonth;
     private String issuedDay;
