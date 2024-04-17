@@ -15,4 +15,5 @@ public class MemberDTO {
     private String name;
     private String phoneNumber;
     private String email;
+    private Boolean isKorean;
 }
